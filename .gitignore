@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 data_CV_label.csv
 dataset_CV_labelise.csv
 dataset_CV.csv
@@ -8,3 +9,16 @@ code_BlindCV_Spacy.ipynb
 code_BlindCV_Spacy_D.ipynb
 code_BlindCV_Labelisation.ipynb
 code_BlindCV_Labelisation_prod.ipynb
+=======
+dataset_CV.csv
+code_BlindCV_Spacy_C.ipynb
+code_BlindCV_Spacy_L.ipynb
+code_BlindCV_Test_modele.ipynb
+data_CV.csv
+CV_projet_txt/
+code_BlindCV_Labelisation.ipynb
+data_CV_label.xls
+dataset_CV_labelise.csv
+05-Decision_trees_Random_forest_template (3).ipynb
+Projet_BlindCV
+>>>>>>> f7d2a5dafa97f8ea5e761bf6e1115290200f4876
