@@ -1,5 +1,10 @@
+data_CV_label.csv
+dataset_CV_labelise.csv
 dataset_CV.csv
 code_BlindCV_.ipynb
 code_BlindCV_Spacy_C.ipynb
 BlindCVTest_modèle.ipynb
 code_BlindCV_Spacy.ipynb
+code_BlindCV_Spacy_D.ipynb
+code_BlindCV_Labelisation.ipynb
+code_BlindCV_Labelisation_prod.ipynb
