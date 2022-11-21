@@ -1,0 +1,75 @@
+PROFIL
+Aprés avoir passé mon BTS MUC et avoir
+travaillé plus de deux ans dans la vente, je
+poursuis ma carriére professionnelle en data
+science.
+De nature dynamique, curieuse, proactive et
+passionnée j'ai choisi de me reconvertir dans ce
+domaine pour faire une activité en phase avec
+ma personnalité.
+CONTACT
+Tel. 06.51.23.76.54
+Villepinte, 93420
+dany.nguyen1997@gmail.com
+INFORMATIQUE
+Langages : Python, SQL
+Data analysis : Pandas, Numpy, SciPy,
+statsmodels
+Data visualisation . Plotly, Matplotlib,
+Seaborn, Tableau, Excel, Power Bl
+Data collection and management
+FastAPl, Beautiful Soup, Scrapy
+Big Data . Spark, PySpark, Databricks
+Machine learning : Sklearn, Tensorflow,
+Keras, spacy
+Deployment . Streamlit, Docker, Heroku,
+MLFIow
+Database . MySQL, PostgreSQL
+- cloud . GCP, AWS
+- Other tools : VSCode, Jupyter Notebook
+and JupyterLab, Git and GitHub
+LANGUES
+- Franqais : Bilingue
+- Vietnamien : Langue natale
+- Anglais : Compétences professionnelles
+- Espagnol : Notions
+DANY
+NGUYEN
+LA RECHERCHE D'UN POSTE
+DANS LA DATA
+FORMATION
+Jedha Bootcamp (2022)
+Certification RNCP niveau 6 (équivalent Bac +4)
+Licence : Concepteur/Développeur en science des
+données
+Akor Alternance (2017)
+BTS MUC (Management des Unités Commerciales)
+Lycée Blaise Cendrars (2015)
+Baccalauréat ST MG spécialité mercatique
+EXPÉRIENCES
+PROFESSIONNELLES
+Margeur
+La galiotte Prenant (94) 1 2018 - Aujourd'hui
+Préparation des matiéres premiéres nécessaires å
+l'impression, planification de la production, entretien
+machine.
+Vendeur
+Norauto Moisselles (95) I juil 2016-2018
+Accueil et conseil, gestion des stocks, mise en rayon,
+élaboration de plan de financement et création de carte
+grise.
+Technicien Freelance
+One Park (75) I févr - juil 2016
+Maintenance boitiers et cartes MUX.
+Employé libre service
+Auchan (93) I janv - juin 2016
+Gestion des stocks, mise en rayon, conseil sur les produits.
+Vendeur
+Tim piéces auto (77) I sept 2015 - janv 2016
+Accueil, conseil, livraison, gestion des stocks, édition factures
+et devis.
+CENTRES D'INTÉRÉT
+- Musique : piano et guitare (autodidacte)
+- Sport : free fight, jiu-jutsu brésilien, football
+- Jeux vidéo
+- Entreprenariat : e-commerce, trading

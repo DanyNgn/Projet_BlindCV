@@ -1,0 +1,92 @@
+ 
+
+SACHA
+DUBOIS
+
+DÉVELOPPEUSE DE LOGICIEL
+
+ 
+
+PROFIL PERSONNEL
+
+Je suis une développeuse de logiciels et une architecte
+de systèmes avec une expérience dans la conception, le
+codage et le test de systèmes complexes. Je maîtrise
+parfaitement C #, Java et Ruby.
+
+DOMAINES D'EXPERTISE
+
+Analyse du système
+
+Recherche utilisateur
+
+Optimisation de la conception orientée
+Apprentissage automatique
+Méthodologie agile
+
+Modélisation de bases de données
+Test et débogage de logiciels
+
+COORDONNÉES
+
+Adresse de l'Entreprise : 12, rue Desaix 75000
+Paris, France
+
+E-mail : bonjour@sitevraimentsuper.fr
+Portfolio : www.sitevraimentsuper.fr
+
+Linkedin : @sitevraimentsuper
+
+ 
+
+EXPÉRIENCE PROFESSIONNELLE
+
+INGÉNIEURE LOGICIELE PRINCIPALE
+
+Tech Condorcet | Janvier 2019 - à présent
+
+- Analyser les besoins des utilisateurs et concevoir des solutions logicielles
+- Coder des programmes haute performance à l'aide de différents frameworks
+- Travailler avec d'autres équipes pour le débogage
+
+DÉVELOPPEUSE DE LOGICIEL
+Solutions de Condorcet | Septembre 2018 - décembre 2019
+
+- Création de services back-end qui analysent les données pour
+fournir des informations commerciales
+
+- Création d'outils de processus de publication automatisés
+
+- Architecture système améliorée en continu
+
+PARCOURS UNIVERSITAIRE
+
+UNIVERSITÉ DE CONDORCET
+Maîtrise en Sciences | Mai 2016 - mai 2020
+
+Maîtrise en informatique
+
+À rédigé une thèse sur : Les diagnostics des maladies
+végétales générés par l'IA sur les plates-formes mobiles, qui
+a remporté le prix de la thèse la plus percutante
+
+UNIVERSITÉ DE CONDORCET
+
+Licence en Sciences | Juin 2009 - juin 2012
+
+Licence en informatique avec option Littérature
+- Spécialisation en systèmes d'entreprise
+Vice-présidente et violoniste principale, orchestre classique de Condorcet
+
+RÉFÉRENCES PROFESSIONNELLES
+
+Romain Thilloy
+
+E-mail bonjour@sitevraimentsuper fr
+Téléphone : 01 23 45 67 89
+
+Céline Cessandra
+
+E-mail: bonjour@sitevraimentsuper.fr
+Téléphone : 01 23 45 87 87
+

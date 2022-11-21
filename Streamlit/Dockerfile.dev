@@ -1,0 +1,22 @@
+FROM continuumio/miniconda3
+
+WORKDIR /home/app
+
+RUN apt-get update
+RUN apt-get install nano unzip
+RUN apt install curl -y
+
+RUN curl -fsSL https://get.deta.dev/cli.sh | sh
+RUN pip install boto3 pandas gunicorn streamlit sklearn matplotlib seaborn plotly
+COPY . /home/app
+
+# Download Zsh
+RUN sh -c "$(wget -O- https://github.com/deluan/zsh-in-docker/releases/download/v1.1.2/zsh-in-docker.sh)" -- \
+    -t alanpeabody
+
+COPY run.sh /run.sh
+COPY motd /etc/motd
+
+RUN chmod +x /run.sh 
+
+ENTRYPOINT ["sh","/run.sh"]

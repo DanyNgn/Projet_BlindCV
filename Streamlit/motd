@@ -1,0 +1,53 @@
+
+
+              ,,))))))));,
+           __)))))))))))))),
+\|/       -\(((((''''((((((((.
+-*-==//////((''  .     `)))))),
+/|\      ))| o    ;-.    '(((((                                  ,(,
+         ( `|    /  )    ;))))'                               ,_))^;(~
+            |   |   |   ,))((((_     _____------~~~-.        %,;(;(>';'~
+            o_);   ;    )))(((` ~---~  `::           \      %%~~)(v;(`('~
+                  ;    ''''````         `:       `:::|\,__,%%    );`'; ~
+                 |   _                )     /      `:|`----'     `-'
+           ______/\/~    |                 /        /
+         /~;;.____/;;'  /          ___--,-(   `;;;/
+        / //  _;______;'------~~~~~    /;;/\    /
+       //  | |                        / ;   \;;,\
+      (<_  | ;                      /',/-----'  _>
+       \_| ||_                     //~;~~~~~~~~~
+           `\_|                   (,~~  -Tua Xiong
+                                   \~\
+                                    ~~
+
+######################################################
+#                                                    #
+#                        Jedha                       #
+#                          -                         #
+#                Data Fullstack program              #
+#                    streamlit app                   #
+#                                                    #
+###################################################### 
+
+
+Hello there 👋 This is our streamlit container where we'll be able to build our first streamlit app. 
+
+Your challenge is the following: Build a Dashboard that follow each covid wave in the world. 
+
+If you want to check out the end result. Here is the link:
+
+* https://covid-tracker-fs-streamlit-app.herokuapp.com/
+
+When you want to run a streamlit app, simply run the following command:
+
+streamlit run --server.port 4000 --server.address "0.0.0.0" NAME_OF_YOUR_FILE.py 
+
+Once your server is up and running simply copy/paste the below url on Google Chrome:
+
+* http://0.0.0.0:4000
+
+And you should see your app on your browser 🚀
+
+Happy coding 😀
+
+---
