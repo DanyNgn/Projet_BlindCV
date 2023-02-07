@@ -23,7 +23,7 @@ Linda Kinn : kinn.linda@yahoo.fr
 Dany Nguyen : dany.nguyen1997@gmail.com
 
 ## Présentation vidéo du projet :
-en attente...
+https://share.vidyard.com/watch/BsdWQVxy6BDXtvCTaMX6Rg?
 
 
 
